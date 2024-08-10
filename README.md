@@ -1,1 +1,2 @@
-[![](https://github-readme-stats.vercel.app/api?username=Jaysonjson)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Jaysonjson)]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysonjson)]
