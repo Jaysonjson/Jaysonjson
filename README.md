@@ -1,2 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=Jaysonjson)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaysonjson&layout=compact)
+[![](https://github-stats-extended.vercel.app/api/top-langs?username=Jaysonjson&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Jaysonjson&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=gruvbox)
